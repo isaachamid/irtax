@@ -1,0 +1,26 @@
+{
+  "name": "irtax",
+  "version": "1.0.1",
+  "description": "Module for Iranian tax API (intamedia.ir)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isaachamid/irtax.git"
+  },
+  "keywords": [
+    "irtax",
+    "tax api",
+    "moadian",
+    "iran tax",
+    "iranian tax"
+  ],
+  "author": "Hamid Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isaachamid/irtax/issues"
+  },
+  "homepage": "https://github.com/isaachamid/irtax#readme"
+}
